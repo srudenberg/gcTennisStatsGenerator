@@ -7,6 +7,8 @@ This Python script fetches tennis player statistics from a specific URL, process
 1. **Clone the repository:**
 
         git clone https://github.com/srudenberg/gcTennisStatsGenerator.git
+   
+2. **Change directory:**
 
         cd gcTennisStatsGenerator
 
@@ -20,7 +22,7 @@ Then, install required Python packages using pip:
 
     pip install -r requirements.txt
 
-3. **Run the script:**
+4. **Run the script:**
 
 Run the main script and follow the prompts:
 
